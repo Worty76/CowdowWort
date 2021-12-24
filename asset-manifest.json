@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/christmas/static/css/main.c8ee6d57.css",
+    "main.js": "/christmas/static/js/main.40cb4795.js",
+    "static/js/787.76826462.chunk.js": "/christmas/static/js/787.76826462.chunk.js",
+    "index.html": "/christmas/index.html",
+    "main.c8ee6d57.css.map": "/christmas/static/css/main.c8ee6d57.css.map",
+    "main.40cb4795.js.map": "/christmas/static/js/main.40cb4795.js.map",
+    "787.76826462.chunk.js.map": "/christmas/static/js/787.76826462.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8ee6d57.css",
+    "static/js/main.40cb4795.js"
+  ]
+}
