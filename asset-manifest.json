@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/christmas/static/css/main.0d68e1d7.css",
-    "main.js": "/christmas/static/js/main.9837dcb6.js",
+    "main.js": "/christmas/static/js/main.77eac7ff.js",
     "static/js/787.76826462.chunk.js": "/christmas/static/js/787.76826462.chunk.js",
     "static/media/job516-namcha-09.jpg": "/christmas/static/media/job516-namcha-09.5d9499e3c5dbad1e15ca.jpg",
     "index.html": "/christmas/index.html",
     "main.0d68e1d7.css.map": "/christmas/static/css/main.0d68e1d7.css.map",
-    "main.9837dcb6.js.map": "/christmas/static/js/main.9837dcb6.js.map",
+    "main.77eac7ff.js.map": "/christmas/static/js/main.77eac7ff.js.map",
     "787.76826462.chunk.js.map": "/christmas/static/js/787.76826462.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d68e1d7.css",
-    "static/js/main.9837dcb6.js"
+    "static/js/main.77eac7ff.js"
   ]
 }
