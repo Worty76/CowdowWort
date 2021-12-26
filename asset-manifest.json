@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/christmas/static/css/main.9f455433.css",
-    "main.js": "/christmas/static/js/main.cf1c5191.js",
-    "static/js/787.76826462.chunk.js": "/christmas/static/js/787.76826462.chunk.js",
-    "static/media/job516-namcha-09.jpg": "/christmas/static/media/job516-namcha-09.5d9499e3c5dbad1e15ca.jpg",
-    "index.html": "/christmas/index.html",
-    "main.9f455433.css.map": "/christmas/static/css/main.9f455433.css.map",
-    "main.cf1c5191.js.map": "/christmas/static/js/main.cf1c5191.js.map",
-    "787.76826462.chunk.js.map": "/christmas/static/js/787.76826462.chunk.js.map"
+    "main.css": "/cowdowWort/static/css/main.17973198.css",
+    "main.js": "/cowdowWort/static/js/main.579d905c.js",
+    "static/js/787.76826462.chunk.js": "/cowdowWort/static/js/787.76826462.chunk.js",
+    "static/media/job516-namcha-09.jpg": "/cowdowWort/static/media/job516-namcha-09.5d9499e3c5dbad1e15ca.jpg",
+    "index.html": "/cowdowWort/index.html",
+    "main.17973198.css.map": "/cowdowWort/static/css/main.17973198.css.map",
+    "main.579d905c.js.map": "/cowdowWort/static/js/main.579d905c.js.map",
+    "787.76826462.chunk.js.map": "/cowdowWort/static/js/787.76826462.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f455433.css",
-    "static/js/main.cf1c5191.js"
+    "static/css/main.17973198.css",
+    "static/js/main.579d905c.js"
   ]
 }
