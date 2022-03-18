@@ -1,0 +1,28 @@
+
+.App{
+  height: 100vh;
+  text-align: center;
+  
+  .sections{
+      
+      width: 100%;
+      height: calc(100vh - 70px);
+      background-color: lightsalmon;
+      position: relative;
+      top: 70px;
+        scrollbar-width: none;
+      &::-webkit-scrollbar{
+        display: none;
+    }
+    > *{
+      width: 100vw;
+      height: calc(100vh - 70px); 
+      scroll-snap-align: start;
+  }
+
+     
+  }
+
+}
+
+
